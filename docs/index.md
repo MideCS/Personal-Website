@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "ASA's Portfolio"
-  text: "Checkout the club's portfolio"
-  tagline: "TODO: Tagline"
+  name: "Hi, I'm Mide."
+  text: "Welcome"
+  tagline: "Artificial Intelligence and Decision Making Ungraduate Student at MIT"
   actions:
     - theme: brand
       text: Template Repository

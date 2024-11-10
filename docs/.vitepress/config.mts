@@ -2,10 +2,10 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TODO: add your title here",
+  title: "Ayomide Togun",
   description: "Personal website ",
   // TODO: add your base here; this should be your repo name!
-  base: "/<REPO_NAME>/",
+  base: "/<Personal-Website>/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
