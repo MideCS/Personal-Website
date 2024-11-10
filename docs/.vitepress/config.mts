@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Ayomide Togun",
   description: "Personal website ",
   // TODO: add your base here; this should be your repo name!
-  base: "/<Personal-Website>/",
+  base: "/Personal-Website/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
